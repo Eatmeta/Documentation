@@ -1,0 +1,9 @@
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\bin\Debug\Documentation.exe.config
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\bin\Debug\Documentation.exe
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\bin\Debug\Documentation.pdb
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\bin\Debug\nunit.framework.dll
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\obj\Debug\Documentation.csproj.AssemblyReference.cache
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\obj\Debug\Documentation.csproj.CoreCompileInputs.cache
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\obj\Debug\Documentation.csproj.CopyComplete
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\obj\Debug\Documentation.exe
+C:\Users\69\RiderProjects\Ulearn Part 2\Documentation\obj\Debug\Documentation.pdb
